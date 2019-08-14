@@ -12,4 +12,4 @@ layout: default
 
 {% include 03-links.md %}
 
-[Wendys](https://www.wendys.com)
+
