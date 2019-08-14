@@ -1,1 +1,1 @@
-www.github.com/whohags
+[GitHub](http://github.com/whohags)
